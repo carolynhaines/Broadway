@@ -32,3 +32,15 @@ p {
   color: White;
   line-height: 32px;
 }
+
+#image-subhead {
+  color: White;
+  background-image: url(../images/the-flatiron-building.png);
+}
+
+.footer {
+font-size: 11px;
+  text-align: left;
+  color: White;
+  background-color: dimgray;
+}
